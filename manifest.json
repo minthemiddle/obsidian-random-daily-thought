@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-random-daily-thought",
+  "name": "Random Daily Thought",
+  "version": "0.1.0",
+  "minAppVersion": "0.15.0",
+  "description": "Opens a random daily note and navigates to a random heading within it.",
+  "author": "Martin Betz",
+  "authorUrl": "https://martinbetz.eu",
+  "isDesktopOnly": false
+}
